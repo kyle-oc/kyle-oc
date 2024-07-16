@@ -1,13 +1,9 @@
 ## Hi, I'm Kyle 👋
 
-<!--
-**kyle-oc/kyle-oc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently specialising in Data Engineering at AiCore, and looking to move into the Data Engineering industry after completion. 
-- 🌱 I’m currently learning Python, Javascript, SQL, Japanese among other things!
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently specialising in Data Engineering at AiCore, and looking to move into the Data Engineering industry after completion of my studies. 
+- 🌱 I’m currently learning Python, Javascript, SQL, and some Japanese among other things!
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
