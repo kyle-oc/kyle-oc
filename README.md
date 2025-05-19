@@ -1,9 +1,9 @@
 ## Hi, I'm Kyle 👋
 
-I'm based in the South West UK, and have a background in retail management and IT. I'm looking to reskill and switch into the data industry.
+I'm based in the South West of the UK, and have a background in retail management and IT. I'm looking to reskill and switch into the data industry.
 
-- 🔭 I’m currently specialising in Data Engineering at AiCore, and looking to move into the Data Engineering industry after completion of my studies. 
-- 🌱 I’m currently learning Python, Javascript, SQL, and some Japanese among other things!
+- I’m currently specialising in Data Engineering at AiCore, and looking to move into the Data Engineering industry after completion of my studies. 
+- I’m currently learning Python, Javascript, SQL, AWS, Databricks, and some Japanese among other things!
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
